@@ -1,24 +1,16 @@
 {
   "files": {
-    "main.css": "/ZethTO/static/css/main.f01aa18b.css",
-    "main.js": "/ZethTO/static/js/main.8019caaa.js",
-    "static/js/787.80917142.chunk.js": "/ZethTO/static/js/787.80917142.chunk.js",
-    "static/media/coder.gif": "/ZethTO/static/media/coder.132dd901b05012e785c3.gif",
-    "static/media/profile.gif": "/ZethTO/static/media/profile.18eac65ddf07f3e1569b.gif",
-    "static/media/metamask.gif": "/ZethTO/static/media/metamask.7dd3d3de4f6ff7efe535.gif",
-    "static/media/PhSet.jpg": "/ZethTO/static/media/PhSet.8993884d563baaf29433.jpg",
-    "static/media/Phnetwork.jpg": "/ZethTO/static/media/Phnetwork.99bcec5759f2303c50d4.jpg",
-    "static/media/Importprocess.jpg": "/ZethTO/static/media/Importprocess.659c5e52a5b4f810ba3b.jpg",
-    "static/media/GetID.jpg": "/ZethTO/static/media/GetID.4d41739f974e55f8d77f.jpg",
-    "static/media/YTN.jpg": "/ZethTO/static/media/YTN.f48c4be9b2aa6823c181.jpg",
-    "static/media/confirm.jpg": "/ZethTO/static/media/confirm.2392593a438a6a96c574.jpg",
-    "index.html": "/ZethTO/index.html",
-    "main.f01aa18b.css.map": "/ZethTO/static/css/main.f01aa18b.css.map",
-    "main.8019caaa.js.map": "/ZethTO/static/js/main.8019caaa.js.map",
-    "787.80917142.chunk.js.map": "/ZethTO/static/js/787.80917142.chunk.js.map"
+    "main.css": "/ZethTOinstance/static/css/main.f0bcee96.css",
+    "main.js": "/ZethTOinstance/static/js/main.7c764236.js",
+    "static/js/787.cda612ba.chunk.js": "/ZethTOinstance/static/js/787.cda612ba.chunk.js",
+    "static/media/Trocchi.png": "/ZethTOinstance/static/media/Trocchi.306814ed2e003bd5c345.png",
+    "index.html": "/ZethTOinstance/index.html",
+    "main.f0bcee96.css.map": "/ZethTOinstance/static/css/main.f0bcee96.css.map",
+    "main.7c764236.js.map": "/ZethTOinstance/static/js/main.7c764236.js.map",
+    "787.cda612ba.chunk.js.map": "/ZethTOinstance/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f01aa18b.css",
-    "static/js/main.8019caaa.js"
+    "static/css/main.f0bcee96.css",
+    "static/js/main.7c764236.js"
   ]
 }
