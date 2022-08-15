@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZethTO/static/css/main.f01aa18b.css",
-    "main.js": "/ZethTO/static/js/main.23a91ccb.js",
+    "main.js": "/ZethTO/static/js/main.47a44c2b.js",
     "static/js/787.80917142.chunk.js": "/ZethTO/static/js/787.80917142.chunk.js",
     "static/media/coder.gif": "/ZethTO/static/media/coder.132dd901b05012e785c3.gif",
     "static/media/profile.gif": "/ZethTO/static/media/profile.18eac65ddf07f3e1569b.gif",
@@ -14,11 +14,11 @@
     "static/media/confirm.jpg": "/ZethTO/static/media/confirm.2392593a438a6a96c574.jpg",
     "index.html": "/ZethTO/index.html",
     "main.f01aa18b.css.map": "/ZethTO/static/css/main.f01aa18b.css.map",
-    "main.23a91ccb.js.map": "/ZethTO/static/js/main.23a91ccb.js.map",
+    "main.47a44c2b.js.map": "/ZethTO/static/js/main.47a44c2b.js.map",
     "787.80917142.chunk.js.map": "/ZethTO/static/js/787.80917142.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f01aa18b.css",
-    "static/js/main.23a91ccb.js"
+    "static/js/main.47a44c2b.js"
   ]
 }
